@@ -1,0 +1,31 @@
+.container{
+  text-align: center;
+}
+.card{
+  margin: 8px;
+  background-color: skyblue;
+  color:black;
+  max-width: 200px;
+  border-radius:10px ;
+  text-align: center;
+  padding: 20px;
+}
+.card img{
+  width: 100%;
+}
+h1{
+  font-size: 2rem;
+  text-align: center;
+  color: black;
+  font-family: tahoma;
+}
+.cardlist{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.search-box{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aqua;
+}
